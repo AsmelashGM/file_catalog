@@ -1,2 +1,2 @@
-# file_catalog
+# File Catalog
 File catalog using Java RMI and JDBC
